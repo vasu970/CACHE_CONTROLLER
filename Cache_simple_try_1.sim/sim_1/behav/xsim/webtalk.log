@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Mon Jul  8 14:09:28 2024
+# Process ID: 81096
+# Current directory: C:/Users/edshe/Desktop/My_project_files/Cache-Controller-master/Cache_simple_try_1/Cache_simple_try_1.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/edshe/Desktop/My_project_files/Cache-Controller-master/Cache_simple_try_1/Cache_simple_try_1.sim/sim_1/behav/xsim/xsim.dir/Test_cache_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/edshe/Desktop/My_project_files/Cache-Controller-master/Cache_simple_try_1/Cache_simple_try_1.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/edshe/Desktop/My_project_files/Cache-Controller-master/Cache_simple_try_1/Cache_simple_try_1.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/edshe/Desktop/My_project_files/Cache-Controller-master/Cache_simple_try_1/Cache_simple_try_1.sim/sim_1/behav/xsim/xsim.dir/Test_cache_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Mon Jul  8 14:09:29 2024...

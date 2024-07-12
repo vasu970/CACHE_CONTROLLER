@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Cache_simple_try_1.srcs/sources_1/new/Cache_controller.v" \
+"../../../../Cache_simple_try_1.srcs/sim_1/new/SIm.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

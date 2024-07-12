@@ -1,0 +1,9 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/edshe/Desktop/My_project_files/Cache-Controller-master/Cache_simple_try_1/Cache_simple_try_1.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/edshe/Desktop/My_project_files/Cache-Controller-master/Cache_simple_try_1/Cache_simple_try_1.srcs/sim_1/new/SIm.v,1720433292,verilog,,,,Test_cache,,,,,,,,
+C:/Users/edshe/Desktop/My_project_files/Cache-Controller-master/Cache_simple_try_1/Cache_simple_try_1.srcs/sources_1/new/Cache_controller.v,1720433891,verilog,,C:/Users/edshe/Desktop/My_project_files/Cache-Controller-master/Cache_simple_try_1/Cache_simple_try_1.srcs/sim_1/new/SIm.v,,Cache_controller,,,,,,,,
+C:/Users/edshe/Desktop/My_project_files/Cache-Controller-master/Cache_simple_try_1/Cache_simple_try_1.srcs/sources_1/new/L1_Cache.v,1720279373,verilog,,C:/Users/edshe/Desktop/My_project_files/Cache-Controller-master/Cache_simple_try_1/Cache_simple_try_1.srcs/sources_1/new/Mem.v,,i_cache,,,,,,,,
+C:/Users/edshe/Desktop/My_project_files/Cache-Controller-master/Cache_simple_try_1/Cache_simple_try_1.srcs/sources_1/new/Mem.v,1720279305,verilog,,C:/Users/edshe/Desktop/My_project_files/Cache-Controller-master/Cache_simple_try_1/Cache_simple_try_1.srcs/sim_1/new/SIm.v,,mem,,,,,,,,
